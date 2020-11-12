@@ -1,2 +1,8 @@
 # [View My Markdown Previewer Site](https://demsource.github.io/markdown-previewer/)
-## Markdown Previewer using Bootstrap
+
+## Utilized:
+* Bootstrap
+* Vanilla JS
+* DOM
+
+**_By Demo_**
